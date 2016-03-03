@@ -2,7 +2,7 @@ This is the official documentation for OpAsmLib on English Langueges.
 # OpAsmLib
 
 ## Langueges
-1. English (it is there)
+1. ✓ English
 2. [Русский](https://github.com/GamesAdmin/OpAsmLib/blob/master/README_RU.md)
 
 ## Index
